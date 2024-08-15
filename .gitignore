@@ -1,0 +1,7 @@
+*.*
+*
+.*/
+
+!/prog/
+!/prog/**
+!.gitignore
